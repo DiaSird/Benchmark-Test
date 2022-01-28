@@ -7,6 +7,5 @@ py:
 rs:
 		cargo run
 f90:
-		cd ..
 		gfortran main.f90
 		./a.exe
